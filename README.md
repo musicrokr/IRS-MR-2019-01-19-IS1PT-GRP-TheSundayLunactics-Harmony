@@ -41,30 +41,33 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 `<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
 
-### [ 1 ] To run the system using iss-vm
+### [ 1 ] To run the system in Linux Server
 
-> download pre-built virtual machine from http://bit.ly/iss-vm
+> open terminal/git bash
 
-> start iss-vm
+> $ git clone //todo:git_url
 
-> open terminal in iss-vm
+> unzip folder
 
-> $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
+> $ cd folder_location/DoRemi-service
 
-> $ source activate iss-env-py2
+> make sure maven installed
 
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
+> $ ./launch.sh clean install
 
-> (iss-env-py2) $ python app.py
+> **Go to URL using web browser** Should be able to see a page with content "DoReMi-service-1.0-SNAPSHOT" via http://localhost:8090 
 
-> **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
+> $ cd folder_locatioin/ang-doremi
 
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
+> $ npm install --save-dev @angular-devkit/build-angular
 
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
+> $ npm install -g @angular/cli
 
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
+> $ npm install
+
+> $ ng serve --open
+
+> **Go to URL using web browser** http://localhost:4200
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
