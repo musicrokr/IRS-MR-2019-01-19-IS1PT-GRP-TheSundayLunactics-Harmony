@@ -3,7 +3,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## Harmony: Enhancing DoReMi's Order and Inventory Management process
 
-<img src="Miscellaneous/HarmonyHeader.png"
+<img src="Miscellaneous/HarmonyHeaderWhite.png"
      style="float: left; margin-right: 0px;" />
 
 ---
