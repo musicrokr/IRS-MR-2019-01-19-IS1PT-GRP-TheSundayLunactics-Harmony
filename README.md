@@ -59,8 +59,6 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 > $ cd folder_locatioin/ang-doremi
 
-> $ npm install --save-dev @angular-devkit/build-angular
-
 > $ npm install -g @angular/cli
 
 > $ npm install
