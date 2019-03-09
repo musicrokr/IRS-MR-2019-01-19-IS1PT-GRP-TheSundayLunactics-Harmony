@@ -51,7 +51,11 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 > $ cd folder_location/DoRemi-service
 
+> make sure jdk 1.8 installed
+
 > make sure maven installed
+
+> $ chmod 777 launch.sh
 
 > $ ./launch.sh clean install
 
@@ -67,6 +71,29 @@ More reference video presentations [here](https://telescopeuser.wordpress.com/20
 
 > **Go to URL using web browser** http://localhost:4200
 
+> **The default configuration is running under h2 in-memory database**
+
+> **Once the backend application is stopped, all the data will be lost**
+
+> **To persist the data, the backend application support running on actual database server**
+
+### [ 1 ] To run the backend application in PostgreSQL
+
+**Refer to** https://docs.jboss.org/jbpm/release/7.17.0.Final/jbpm-docs/html_single/#_run_your_business_application **for more details**
+
+> install postgreSQL 11.1
+
+> $ cd folder/location/DoReMi-service
+
+> $ psql -U postgres -f psql-script/create-user-db-grant.sql
+
+> ** change application configuration **
+
+> $ rm src/main/resources/application.properties
+
+> $ mv src/main/resources/application-postgres.properties src/main/resources/application.properties
+
+> $ ./launch.sh clean install -Ppostgres
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
