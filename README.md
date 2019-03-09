@@ -59,6 +59,14 @@ The technologies used in our POC solution are a combination of Angular, Drools a
 
 > **Go to URL using web browser** Should be able to see a page with content "DoReMi-service-1.0-SNAPSHOT" via http://localhost:8090 
 
+> **Install Node.js** https://websiteforstudents.com/install-the-latest-node-js-and-nmp-packages-on-ubuntu-16-04-18-04-lts/
+
+> $ sudo apt install curl
+
+> $ curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+
+> $ sudo apt install nodejs
+
 > $ cd folder_locatioin/ang-doremi
 
 > $ npm install -g @angular/cli
