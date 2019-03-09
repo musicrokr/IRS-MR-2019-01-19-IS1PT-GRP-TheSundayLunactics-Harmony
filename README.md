@@ -78,7 +78,9 @@ The technologies used in our POC solution are a combination of Angular, Drools a
 > **Go to URL using web browser** http://localhost:4200
 
 **The default configuration is running under h2 in-memory database**
+
 **Once the backend application is stopped, all the data will be lost**
+
 **To persist the data, the backend application support running on actual database server**
 
 ### [ 1 ] To run the backend application in PostgreSQL
