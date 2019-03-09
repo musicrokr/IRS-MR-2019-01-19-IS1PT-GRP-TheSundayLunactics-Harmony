@@ -37,7 +37,7 @@ The technologies used in our POC solution are a combination of Angular, Drools a
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/UserGuide/User%20Guide%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/musicrokr/IRS-MR-2019-01-19-IS1PT-GRP-TheSundayLunactics-Harmony/blob/master/UserGuide/The%20Sunday%20Lunatics%20%20-%20Harmony%20User%20Guide.pdf>
 
 ### [ 1 ] To run the system in Linux Server
 
