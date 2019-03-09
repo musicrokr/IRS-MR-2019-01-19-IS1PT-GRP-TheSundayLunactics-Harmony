@@ -24,7 +24,7 @@ The technologies used in our POC solution are a combination of Angular, Drools a
 | Official Full Name  | Student ID  | Work Items | 
 | :------------ |:---------------:| :-----| 
 | Tan Jun Khiang | A0195169N | Project Report, Knowledge Modelling and Drools| 
-| Tan Wei Lian, William | A0048135J | Environment Set Up, JBPM|
+| Tan Wei Lian, William | A0048135J | Angular Web Application, Environment Set Up, JBPM|
 | Tang Meng | A0137099U | Angular Web Application,JBPM| 
 | Leong Jun Hun, Darryl | A0195318X | Project Report, Knowledge Modelling and Drools| 
 
