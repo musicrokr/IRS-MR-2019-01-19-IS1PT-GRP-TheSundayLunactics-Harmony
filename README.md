@@ -103,7 +103,7 @@ The technologies used in our POC solution are a combination of Angular, Drools a
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : https://github.com/musicrokr/IRS-MR-2019-01-19-IS1PT-GRP-TheSundayLunactics-Harmony/blob/master/ProjectReport/The%20Sunday%20Lunatics%20%20-%20Harmony%20Project%20Report.pdf>
+`<Github File Link>` : <https://github.com/musicrokr/IRS-MR-2019-01-19-IS1PT-GRP-TheSundayLunactics-Harmony/blob/master/ProjectReport/The%20Sunday%20Lunatics%20%20-%20Harmony%20Project%20Report.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
