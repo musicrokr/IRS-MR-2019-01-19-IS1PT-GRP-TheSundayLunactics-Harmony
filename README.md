@@ -31,7 +31,7 @@ The technologies used in our POC solution are a combination of Angular, Drools a
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![Sudoku AI Solver](img src="Miscellaneous/HarmonyVideoStill.png")](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
 
 
 ---
