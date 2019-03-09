@@ -103,26 +103,12 @@ The technologies used in our POC solution are a combination of Angular, Drools a
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
-
-**Recommended Sections for Project Report / Paper:**
-- Executive Summary / Paper Abstract
-- Sponsor Company Introduction (if applicable)
-- Business Problem Background
-- Project Objectives & Success Measurements
-- Project Solution (To detail domain modelling & system design.)
-- Project Implementation (To detail system development & testing approach.)
-- Project Performance & Validation (To prove project objectives are met.)
-- Project Conclusions: Findings & Recommendation
-- List of Abbreviations (if applicable)
-- References (if applicable)
+`<Github File Link>` : https://github.com/musicrokr/IRS-MR-2019-01-19-IS1PT-GRP-TheSundayLunactics-Harmony/blob/master/ProjectReport/The%20Sunday%20Lunatics%20%20-%20Harmony%20Project%20Report.pdf>
 
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-### HDB_BTO_SURVEY.xlsx
-* Results of survey
-* Insights derived, which were subsequently used in our system
+N.A.
 
 ---
 
