@@ -31,7 +31,7 @@ The technologies used in our POC solution are a combination of Angular, Drools a
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-<a href="https://youtu.be/vooP6BmJ4l4"><img src="Miscellaneous/HarmonyVideoStill.png"
+<a href="https://youtu.be/vooP6BmJ4l4"><img src="Miscellaneous/YTDeck Sorcery.png"
      style="float: left; margin-right: 0px;" /></a>
 
 ---
